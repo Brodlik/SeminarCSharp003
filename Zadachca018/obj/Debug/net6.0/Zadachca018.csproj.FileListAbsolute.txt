@@ -1,0 +1,15 @@
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\bin\Debug\net6.0\Zadachca018.exe
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\bin\Debug\net6.0\Zadachca018.deps.json
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\bin\Debug\net6.0\Zadachca018.runtimeconfig.json
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\bin\Debug\net6.0\Zadachca018.dll
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\bin\Debug\net6.0\Zadachca018.pdb
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.csproj.AssemblyReference.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.AssemblyInfoInputs.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.AssemblyInfo.cs
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.csproj.CoreCompileInputs.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.dll
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\refint\Zadachca018.dll
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.pdb
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\Zadachca018.genruntimeconfig.cache
+C:\Users\brodl\OneDrive\Документы\GB\GB_predmeti\C_sharp\SeminarCSharp003\Zadachca018\obj\Debug\net6.0\ref\Zadachca018.dll
